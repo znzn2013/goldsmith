@@ -1,0 +1,14 @@
+C:\Users\Development\Desktop\dotnet\goldSmith\GoldSmithRegInfo\GoldSmithRegInfo\bin\Debug\netcoreapp2.2\GoldSmithRegInfo.deps.json
+C:\Users\Development\Desktop\dotnet\goldSmith\GoldSmithRegInfo\GoldSmithRegInfo\bin\Debug\netcoreapp2.2\GoldSmithRegInfo.runtimeconfig.json
+C:\Users\Development\Desktop\dotnet\goldSmith\GoldSmithRegInfo\GoldSmithRegInfo\bin\Debug\netcoreapp2.2\GoldSmithRegInfo.runtimeconfig.dev.json
+C:\Users\Development\Desktop\dotnet\goldSmith\GoldSmithRegInfo\GoldSmithRegInfo\bin\Debug\netcoreapp2.2\GoldSmithRegInfo.dll
+C:\Users\Development\Desktop\dotnet\goldSmith\GoldSmithRegInfo\GoldSmithRegInfo\bin\Debug\netcoreapp2.2\GoldSmithRegInfo.pdb
+C:\Users\Development\Desktop\dotnet\goldSmith\GoldSmithRegInfo\GoldSmithRegInfo\obj\Debug\netcoreapp2.2\GoldSmithRegInfo.csprojAssemblyReference.cache
+C:\Users\Development\Desktop\dotnet\goldSmith\GoldSmithRegInfo\GoldSmithRegInfo\obj\Debug\netcoreapp2.2\GoldSmithRegInfo.csproj.CoreCompileInputs.cache
+C:\Users\Development\Desktop\dotnet\goldSmith\GoldSmithRegInfo\GoldSmithRegInfo\obj\Debug\netcoreapp2.2\GoldSmithRegInfo.RazorAssemblyInfo.cache
+C:\Users\Development\Desktop\dotnet\goldSmith\GoldSmithRegInfo\GoldSmithRegInfo\obj\Debug\netcoreapp2.2\GoldSmithRegInfo.RazorAssemblyInfo.cs
+C:\Users\Development\Desktop\dotnet\goldSmith\GoldSmithRegInfo\GoldSmithRegInfo\obj\Debug\netcoreapp2.2\GoldSmithRegInfo.AssemblyInfoInputs.cache
+C:\Users\Development\Desktop\dotnet\goldSmith\GoldSmithRegInfo\GoldSmithRegInfo\obj\Debug\netcoreapp2.2\GoldSmithRegInfo.AssemblyInfo.cs
+C:\Users\Development\Desktop\dotnet\goldSmith\GoldSmithRegInfo\GoldSmithRegInfo\obj\Debug\netcoreapp2.2\GoldSmithRegInfo.RazorTargetAssemblyInfo.cache
+C:\Users\Development\Desktop\dotnet\goldSmith\GoldSmithRegInfo\GoldSmithRegInfo\obj\Debug\netcoreapp2.2\GoldSmithRegInfo.dll
+C:\Users\Development\Desktop\dotnet\goldSmith\GoldSmithRegInfo\GoldSmithRegInfo\obj\Debug\netcoreapp2.2\GoldSmithRegInfo.pdb
